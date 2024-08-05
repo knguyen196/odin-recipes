@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(145, 118, 171);
+    font-family: 'Segoe UI', Arial, Arial, Helvetica;
+}
+
+#title-header{
+    color:white;
+    text-align: center;
+    font-weight: bold;
+    padding: 20px;
+    border: 10px solid;
+    margin: 20px;
+    border-color: black;
+}
+
+#cheesecake-recipe{
+    color: white;
+    font-style: italic;
+    text-decoration: none;
+}
+
+#cheesecake-recipe:hover{
+    color:blue
+}

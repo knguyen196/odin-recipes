@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(145, 118, 171);
+    font-family: 'Segoe UI', Arial, Arial, Helvetica;
+}
+
+#title{
+    margin: 10px;
+    padding: 10px;
+    border:10px solid black;
+    text-align: center;
+    font-weight: bold;
+}
+
+p{
+    margin-left: 5px;
+    text-align: left;
+    font-weight: bold;
+}
+
+.header2{
+    margin-bottom: 5px;
+    color:white;
+    font-weight: bold;
+    border: 5px solid black;
+}
+
+div{
+    font-style: italic;
+    font-size: 16px;
+    padding: 10;
+}
+
+#unordered{
+    background-color: aquamarine;
+}
+
+#ordered{
+    background-color: azure;
+}
